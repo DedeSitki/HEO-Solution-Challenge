@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266496642022",
+    "project_id": "heofinalproject-30f78",
+    "storage_bucket": "heofinalproject-30f78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266496642022:android:969d789cba305f40dfa427",
+        "android_client_info": {
+          "package_name": "com.example.heo_final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJk4NizyGJkL_M_Fla0_SIKK7jYyQJB5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
